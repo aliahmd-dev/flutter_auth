@@ -1,3 +1,4 @@
+import 'package:auth/pages/project_page.dart';
 import 'package:flutter/material.dart';
 
 class ProjectTile extends StatelessWidget {
